@@ -1,6 +1,6 @@
 # agent-core
 
-Framework mínimo de agentes en Python 3.11+, hecho para aprender cómo funcionan por dentro.
+Framework mínimo de agentes en Python 3.12, hecho para aprender cómo funcionan por dentro.
 Stack: src/ layout, pytest, httpx. Sin LangChain ni SDKs de proveedores.
 
 ## Reglas
